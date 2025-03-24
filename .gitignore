@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/leap-unity-hdrp-sample
+/Library
+/Logs
+/obj/Debug
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/leap-unity-hdrp-sample.sln
+/UnityJapanOffice.Input.Runtime.csproj
